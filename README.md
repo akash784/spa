@@ -1,2 +1,0 @@
-# spa
-project1
